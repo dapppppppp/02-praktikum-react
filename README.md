@@ -83,7 +83,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 > ![alt text](asset/p3.png)
 
 ### Praktikum 3. Menggunakan JSX untuk Membuat Komponen Dinamis
-> ![alt text](asset/p3.mp4)
+> ![alt text](asset/p3.gif)
 
 ### Praktikum 4. Menggunakan Props untuk Mengirim Data
 > ![alt text](asset/p4.png)
@@ -99,4 +99,4 @@ state untuk mengelola daftar tugas dan props untuk mengirim data tugas ke kompon
 > 2. Tambahkan fitur untuk menambahkan tugas baru ke dalam daftar menggunakan form input.
 > 3. Implementasikan fitur untuk menghapus tugas dari daftar.
 
-> ![alt text](asset/tugas.mp4)
+> ![alt text](asset/tugas.gif)
