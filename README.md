@@ -68,3 +68,35 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Laporan Praktikum
+
+> NIM   : 2241720195
+> Nama  : Daffa Reyhansyah Ahmad
+> Kelas : TI - 3C
+
+### Praktikum 1. Persiapan Lingkungan
+> ![alt text](asset/p1.png)
+> ![alt text](asset/p2.png)
+
+### Praktikum 2. Membuat Komponen React
+> ![alt text](asset/p3.png)
+
+### Praktikum 3. Menggunakan JSX untuk Membuat Komponen Dinamis
+> ![alt text](asset/p3.mp4)
+
+### Praktikum 4. Menggunakan Props untuk Mengirim Data
+> ![alt text](asset/p4.png)
+
+### Praktikum 5. Menggunakan State untuk Mengelola Data
+> ![alt text](asset/p5.png)
+
+### Tugas
+
+> Tugas
+> 1. Buat komponen baru bernama TodoList yang menampilkan daftar tugas (todo list). Gunakan
+state untuk mengelola daftar tugas dan props untuk mengirim data tugas ke komponen anak.
+> 2. Tambahkan fitur untuk menambahkan tugas baru ke dalam daftar menggunakan form input.
+> 3. Implementasikan fitur untuk menghapus tugas dari daftar.
+
+> ![alt text](asset/tugas.mp4)
